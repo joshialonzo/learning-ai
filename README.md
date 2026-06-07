@@ -30,6 +30,10 @@ I’ll include:
 * [Tutorial 7: Infisical integration](docs/tutorial_7.md)
 * [Tutorial 8: e2e testing](docs/tutorial_8.md)
 
+## Agentic AI
+
+* [Agentic AI: Build your First Agentic AI System](build_your_first_agentic_ai_system/README.md)
+
 ---
 
 * [Prompts](docs/prompts.md)
