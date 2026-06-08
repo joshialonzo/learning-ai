@@ -32,6 +32,7 @@ I’ll include:
 
 ## Agentic AI
 
+* [AI-Driven Learning and Upskilling: Building Your Personalized Learning Guide](ai_driven_learning_and_upskilling/README.md)
 * [Agentic AI: Build your First Agentic AI System](build_your_first_agentic_ai_system/README.md)
 
 ---
