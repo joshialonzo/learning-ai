@@ -29,3 +29,16 @@ A business use case is a structured narrative that describes how a system or pro
 * Nonfunctional requirements: Any nonfunctional requirements, such as performance, security, or usability considerations, that are relevant to the use case.
 * Assumptions: Any assumptions made about the system, environment, or context that are necessary for the use case to be valid or applicable.
 * Notes or additional information: Any additional notes, explanations, or supplementary information that might be helpful for understanding or implementing the use case.
+
+## Addressing business use cases with generative AI
+
+When it comes to resolving business problems using generative AI, there are various metrics and approaches that can be employed.
+
+### Key metrics
+
+* Cost savings: One of the primary metrics is the potential cost savings that can be achieved by using generative AI. This includes reductions in labor costs, process optimization, and efficiency gains.
+* Time savings: Generative AI can automate and streamline various tasks, leading to significant time savings. Measuring the reduction in time required for specific processes or activities can be a valuable metric.
+* Quality improvement: Generative AI can enhance the quality of outputs, such as written content, creative designs, or analytical insights. Metrics like accuracy, coherence, and creativity can be used to measure quality improvements.
+* Customer satisfaction: If generative AI is used to improve customer interactions or experiences, metrics like customer satisfaction scores, net promoter score (NPS), or sentiment analysis can be valuable indicators.
+* Productivity gains: Generative AI can augment human capabilities, leading to increased productivity. Metrics like output volume, error rates, or task completion times can measure productivity improvements.
+* 
