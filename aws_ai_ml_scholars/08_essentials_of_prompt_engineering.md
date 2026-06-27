@@ -52,3 +52,6 @@ When interacting with FMs, you can often configure inference parameters to limit
 
 This is the most common category of inference parameter. Randomness and diversity parameters influence the variation in generated responses by limiting the outputs to more likely outcomes or by changing the shape of the probability distribution of outputs. Three of the more common parameters are temperature, top k, and top p. Choose each to learn more.
 
+##### Temperature
+
+This parameter controls the randomness or creativity of the model's output. A higher temperature makes the output more diverse and unpredictable, and a lower temperature makes it more focused and predictable. Temperature is set between 0 and 1. The following are examples of different temperature settings.
