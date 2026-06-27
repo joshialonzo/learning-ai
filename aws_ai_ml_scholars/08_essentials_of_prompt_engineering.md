@@ -112,3 +112,7 @@ Foundation models can get confused when asked to perform complex tasks. Break up
 * Ask the model if it understood your instruction. Provide clarification based on the model's response.
 * If you don’t know how to break the task into subtasks, ask the model to think step by step. You will learn more about this type of prompt technique later on in this course. This method might not work for all models, but you can try to rephrase the instructions in a way that makes sense for the task. For example, you might request that the model divides the task into subtasks, approaches the problem systematically, or reasons through the problem one step at a time.
 
+##### Experiment and be creative
+
+Try different prompts to optimize the model's responses. Determine which prompts achieve effective results and which prompts achieve inaccurate results. Adjust your prompts accordingly. Novel and thought-provoking prompts can lead to innovative outcomes.
+
