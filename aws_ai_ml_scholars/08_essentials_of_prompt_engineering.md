@@ -25,3 +25,11 @@ Using effective prompt strategies can offer you the following benefits:
 
 In this lesson and the subsequent ones, you will learn about various prompt engineering methodologies. You will learn how to frame questions with greater precision, provide examples of desired outputs, suggest intermediate steps, and more.
 
+#### Elements of a prompt
+
+A prompt's form depends on the task that you are giving to a model. As you explore prompt engineering examples, you will review prompts containing some or all of the following elements:
+
+* Instructions: This is a task for the large language model to do. It provides a task description or instruction for how the model should perform.
+* Context: This is external information to guide the model.
+* Input data: This is the input for which you want a response.
+* Output indicator: This is the output type or format.
