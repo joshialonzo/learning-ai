@@ -116,3 +116,9 @@ Foundation models can get confused when asked to perform complex tasks. Break up
 
 Try different prompts to optimize the model's responses. Determine which prompts achieve effective results and which prompts achieve inaccurate results. Adjust your prompts accordingly. Novel and thought-provoking prompts can lead to innovative outcomes.
 
+##### Use prompt templates
+
+Prompt templates are predefined structures or formats that can be used to provide consistent inputs to FMs. They help ensure that the prompts are phrased in a way that is easily understood by the model and can lead to more reliable and higher-quality outputs. Prompt templates often include instructions, context, examples, and placeholders for information relevant to the task at hand.
+
+Prompt templates can help streamline the process of interacting with models, making it easier to integrate them into various applications and workflows.
+
