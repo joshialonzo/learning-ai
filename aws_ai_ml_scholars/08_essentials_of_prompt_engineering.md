@@ -92,3 +92,7 @@ Provide any additional context that would help the model respond accurately. For
 
 If you want a particular output form, such as a summary, question, or poem, specify the response type directly. You can also limit responses by length, format, included information, excluded information, and more.
 
+##### Consider the output in the prompt
+
+Mention the requested output at the end of the prompt to keep the model focused on appropriate content.
+
