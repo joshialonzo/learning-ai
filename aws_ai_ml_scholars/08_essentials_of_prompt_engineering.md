@@ -144,3 +144,17 @@ When employing a few-shot prompting technique, consider the following tips:
 * Make sure to select examples that are representative of the task that you want the model to perform and cover a diverse range of inputs and outputs. Additionally, aim to use clear and concise examples that accurately demonstrate the desired behavior.
 * Experiment with the number of examples. The optimal number of examples to include in a few-shot prompt can vary depending on the task, the model, and the complexity of the examples themselves. Generally, providing more examples can help the model better understand the task. But too many examples might introduce noise or confusion.
 
+#### Chain-of-thought prompting
+
+Chain-of-thought (CoT) prompting is a technique that divides intricate reasoning tasks into smaller, intermediary steps. This approach can be employed using either zero-shot or few-shot prompting techniques.  CoT prompts are tailored to specific problem types. To initiate the chain-of-thought reasoning process in a machine learning model, you can use the phrase "Think step by step." It is recommended to use CoT prompting when the task requires multiple steps or a series of logical reasoning.
+
+## Risks
+
+### Prompt Misuses and Risks
+
+#### Poisoning, hijacking, and prompt injection
+
+##### Poisoning
+
+Poisoning refers to the intentional introduction of malicious or biased data into the training dataset of a model. This can lead to the model producing biased, offensive, or harmful outputs, either intentionally or unintentionally.
+
