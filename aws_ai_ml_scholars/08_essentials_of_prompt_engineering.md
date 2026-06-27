@@ -122,3 +122,7 @@ Prompt templates are predefined structures or formats that can be used to provid
 
 Prompt templates can help streamline the process of interacting with models, making it easier to integrate them into various applications and workflows.
 
+### Prompt Engineering Techniques
+
+Using these prompt engineering techniques can help you use generative models most effectively for your unique objectives.
+
