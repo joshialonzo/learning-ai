@@ -100,3 +100,7 @@ Mention the requested output at the end of the prompt to keep the model focused 
 
 Phrase your input as a question, beginning with words, such as who, what, where, when, why, and how.
 
+##### Provide an example response
+
+Use the expected output format as an example response in the prompt. Surround it in brackets to make it clear that it is an example.
+
