@@ -80,3 +80,6 @@ Stop sequences are special tokens or sequences of tokens that signal the model t
 
 Although inference parameters are important and clearly influence a model's output, they are mostly just settings that you can adjust as part of the prompting process. To craft an effective prompt, it's important to follow some best practices. The following are some useful tips for designing prompts.
 
+##### Be clear and concise
+
+Prompts should be straightforward and avoid ambiguity. Clear prompts lead to more coherent responses. Craft prompts with natural, flowing language and coherent sentence structure. Avoid isolated keywords and phrases.
