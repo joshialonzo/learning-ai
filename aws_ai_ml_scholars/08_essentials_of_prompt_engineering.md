@@ -75,3 +75,8 @@ The maximum length setting determines the maximum number of tokens that the mode
 ##### Stop sequences
 
 Stop sequences are special tokens or sequences of tokens that signal the model to stop generating further output. When the model encounters a stop sequence during the inference process, it will terminate the generation regardless of the maximum length setting. Stop sequences are particularly useful in tasks where the desired output length is variable or difficult to predict in advance. For example, in conversational artificial intelligence (AI) systems, the stop sequence could be an end-of-conversation token or a specific phrase that indicates the end of the response.
+
+#### Best practices for prompting
+
+Although inference parameters are important and clearly influence a model's output, they are mostly just settings that you can adjust as part of the prompting process. To craft an effective prompt, it's important to follow some best practices. The following are some useful tips for designing prompts.
+
