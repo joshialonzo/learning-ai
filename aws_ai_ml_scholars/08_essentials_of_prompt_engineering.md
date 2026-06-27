@@ -178,3 +178,11 @@ Consider a scenario where a system is trained on private customer data to genera
 
 Prompt leaking refers to the unintentional disclosure or leakage of the prompts or inputs (regardless of whether these are protected data or not) used within a model. Prompt leaking does not necessarily expose protected data. But it can expose other data used by the model, which can reveal information of how the model works and this can be used against it.
 
+#### Jailbreaking
+
+Jailbreaking refers to the practice of modifying or circumventing the constraints and safety measures implemented in a generative model or AI assistant to gain unauthorized access or functionality.
+
+When an AI model is developed, it is typically trained with certain ethical and safety constraints in place to prevent misuse or harmful outputs. These constraints can include filtering out explicit or offensive content, restricting access to sensitive information, or limiting the ability to carry out certain actions or commands.
+
+Jailbreaking attempts involve crafting carefully constructed prompts or input sequences that aim to bypass or exploit vulnerabilities in the AI system's filtering mechanisms or constraints. The goal is to "break out" of the intended model limitations.
+
