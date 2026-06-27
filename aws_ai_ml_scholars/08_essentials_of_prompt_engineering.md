@@ -44,3 +44,7 @@ For instance, in a text generation model, negative prompts could be used to prev
 
 Although foundation models (FMs) are generally highly capable, their outputs can be greatly influenced by the prompts provided. In this lesson, you will discover techniques for modifying and refining prompts to achieve better results. By the end of this lesson, you will have a solid understanding of how to tweak and optimize prompts, unlocking the full potential of generative AI models.
 
+#### Inference parameters
+
+When interacting with FMs, you can often configure inference parameters to limit or influence the model response. The parameters available to you will vary based on the model that you are using. Inference parameters fit into a range of categories, with the most common being randomness and diversity and length.
+
