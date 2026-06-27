@@ -40,3 +40,7 @@ Sometimes it's easier to guide a model toward a desired output by including what
 
 For instance, in a text generation model, negative prompts could be used to prevent the model from producing hate speech, explicit content, or biased language. By specifying what the model should avoid, negative prompting helps steer the output towards more appropriate content.
 
+### Modifying Prompts
+
+Although foundation models (FMs) are generally highly capable, their outputs can be greatly influenced by the prompts provided. In this lesson, you will discover techniques for modifying and refining prompts to achieve better results. By the end of this lesson, you will have a solid understanding of how to tweak and optimize prompts, unlocking the full potential of generative AI models.
+
