@@ -96,3 +96,7 @@ If you want a particular output form, such as a summary, question, or poem, spec
 
 Mention the requested output at the end of the prompt to keep the model focused on appropriate content.
 
+##### Start prompts with an interrogation
+
+Phrase your input as a question, beginning with words, such as who, what, where, when, why, and how.
+
