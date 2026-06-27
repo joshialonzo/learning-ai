@@ -83,3 +83,8 @@ Although inference parameters are important and clearly influence a model's outp
 ##### Be clear and concise
 
 Prompts should be straightforward and avoid ambiguity. Clear prompts lead to more coherent responses. Craft prompts with natural, flowing language and coherent sentence structure. Avoid isolated keywords and phrases.
+
+##### Include context if needed
+
+Provide any additional context that would help the model respond accurately. For example, if you ask a model to analyze a business, include information about the type of business. What does the company do? This type of detail in the input provides more relevant output. The context that you provide can be common across multiple inputs or specific to each input.
+
