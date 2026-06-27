@@ -33,3 +33,10 @@ A prompt's form depends on the task that you are giving to a model. As you explo
 * Context: This is external information to guide the model.
 * Input data: This is the input for which you want a response.
 * Output indicator: This is the output type or format.
+
+#### Negative prompting
+
+Sometimes it's easier to guide a model toward a desired output by including what you don't want included in the output. Negative prompting is used to guide the model away from producing certain types of content or exhibiting specific behaviors. It involves providing the model with examples or instructions about what it should not generate or do.
+
+For instance, in a text generation model, negative prompts could be used to prevent the model from producing hate speech, explicit content, or biased language. By specifying what the model should avoid, negative prompting helps steer the output towards more appropriate content.
+
