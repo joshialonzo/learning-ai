@@ -88,3 +88,7 @@ Prompts should be straightforward and avoid ambiguity. Clear prompts lead to mor
 
 Provide any additional context that would help the model respond accurately. For example, if you ask a model to analyze a business, include information about the type of business. What does the company do? This type of detail in the input provides more relevant output. The context that you provide can be common across multiple inputs or specific to each input.
 
+##### Use directives for the appropiate response type
+
+If you want a particular output form, such as a summary, question, or poem, specify the response type directly. You can also limit responses by length, format, included information, excluded information, and more.
+
