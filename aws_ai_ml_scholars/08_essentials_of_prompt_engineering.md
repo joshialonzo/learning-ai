@@ -166,3 +166,15 @@ For example, a malicious actor could craft prompts for a text generation model t
 
 The goal is to hijack the model's behavior and make it produce outputs that align with the attacker's intentions, such as generating misinformation or running malicious code. 
 
+#### Exposure and prompt leaking
+
+##### Exposure
+
+Exposure refers to the risk of exposing sensitive or confidential information to a generative model during training or inference. An FM can then inadvertently reveal this sensitive data from their training corpus, leading to potential data leaks or privacy violations.
+
+Consider a scenario where a system is trained on private customer data to generate personalized product recommendations. In such a case, there is a possibility that the system might unintentionally disclose details about individual customers' purchases or browsing histories within the recommendations that it generates for new customers. This potential exposure of private user information could undermine customers' privacy and erode their trust in the system.
+
+##### Prompt leaking
+
+Prompt leaking refers to the unintentional disclosure or leakage of the prompts or inputs (regardless of whether these are protected data or not) used within a model. Prompt leaking does not necessarily expose protected data. But it can expose other data used by the model, which can reveal information of how the model works and this can be used against it.
+
