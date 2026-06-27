@@ -104,3 +104,11 @@ Phrase your input as a question, beginning with words, such as who, what, where,
 
 Use the expected output format as an example response in the prompt. Surround it in brackets to make it clear that it is an example.
 
+##### Break up complex tasks
+
+Foundation models can get confused when asked to perform complex tasks. Break up complex tasks by using the following techniques:
+
+* Divide the task into several subtasks. If you cannot get reliable results, try splitting the task into multiple prompts.
+* Ask the model if it understood your instruction. Provide clarification based on the model's response.
+* If you don’t know how to break the task into subtasks, ask the model to think step by step. You will learn more about this type of prompt technique later on in this course. This method might not work for all models, but you can try to rephrase the instructions in a way that makes sense for the task. For example, you might request that the model divides the task into subtasks, approaches the problem systematically, or reasons through the problem one step at a time.
+
