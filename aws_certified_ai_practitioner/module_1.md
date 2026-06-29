@@ -19,4 +19,16 @@ This knowledge helps ensure you can effectively use AI/ML technologies on AWS.
 
 ## Exam Content
 
+The AWS Certified AI Practitioner exam has 65 questions to be completed in 90 minutes.
+
+It includes various question types:
+
+* multiple choice
+* multiple response
+* ordering
+* matching
+* case studies
+
+There are 15 unscored questions used for testing new questions. You get no partial credit—answers must be fully correct to earn points—and there's no penalty for guessing. Managing your time well and eliminating incorrect answers can help you succeed.
+
 ## Exam Question Domains
