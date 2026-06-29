@@ -30,6 +30,10 @@ I’ll include:
 * [Tutorial 7: Infisical integration](docs/tutorial_7.md)
 * [Tutorial 8: e2e testing](docs/tutorial_8.md)
 
+## Artificial Intelligence (AI)
+
+* [AWS Certified AI Practitioner (AIF-C01) Cert Prep](aws_certified_ai_practitioner/README.md)
+
 ## Agentic AI
 
 * [AI-Driven Learning and Upskilling: Building Your Personalized Learning Guide](ai_driven_learning_and_upskilling/README.md)
