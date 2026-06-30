@@ -62,6 +62,12 @@ Reinforcement Learning: The model learns by receiving feedback on its prediction
 
 Understanding when to use each type depends on your application's requirements for speed versus accuracy.
 
+### Introduction to Deep Learning
+
+* Input Layer: Think of it as the factory's loading dock where all raw materials arrive. These materials are like the different features of your data (pixels, measurements, metadata).
+* Hidden Layers: These are like the assembly workers inside the factory. Each worker (neuron) processes the inputs, applies transformations, and passes the results along.
+* Output Layer: This is the packaging area where the final products are assembled, boxed, labeled, and shipped out. It takes all the processed information and produces the final result, such as a classification or prediction.
+
 ## Practical Use Cases for AI
 
 ## ML Development Lifecycle
