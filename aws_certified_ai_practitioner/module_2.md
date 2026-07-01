@@ -70,4 +70,19 @@ Understanding when to use each type depends on your application's requirements f
 
 ## Practical Use Cases for AI
 
+### AI Patterns and anti-patterns
+
+Patterns
+
+* Pattern 1: Content Creation
+* Pattern 2: Text Summarization
+* Pattern 3: Medical Imaging Annotation
+* Pattern 4: Drug Design
+
+Anti-patterns
+
+* Anti-pattern 1: Financial Audit
+* Anti-pattern 2: Regulatory Compliance in Pharmaceutical Manufacturing
+* Anti-pattern 3: Legal Judgement
+
 ## ML Development Lifecycle
