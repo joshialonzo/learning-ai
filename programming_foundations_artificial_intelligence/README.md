@@ -14,3 +14,10 @@
 * Machine Learning (ML), a subset of AI, teaches computers to learn from data patterns to make predictions, like spam detection or personalized recommendations.
 * Deep Learning (DL), a subset of ML, uses neural networks to simulate human brain decision-making, powering technologies like voice assistants.
 * Generative AI creates new content, such as images or text, based on training data, pushing creative boundaries but raising ethical questions.
+
+### Explore AI applications
+
+* AI optimizes complex systems like smart grids by analyzing data to manage electricity efficiently, similar to how an air traffic controller manages flights.
+* Machine learning excels in real-time fraud detection by identifying unusual patterns, much like a detective solving mysteries.
+* Deep learning enhances medical diagnostics by analyzing images to detect diseases early, acting as a second opinion to radiologists.
+* Generative AI accelerates drug discovery by experimenting with molecular combinations, akin to a master chef creating new recipes.
