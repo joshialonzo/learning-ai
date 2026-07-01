@@ -32,6 +32,7 @@ I’ll include:
 
 ## Artificial Intelligence (AI)
 
+* [Programming Foundations: Artificial Intelligence](programming_foundations_artificial_intelligence/README.md)
 * [AWS Certified AI Practitioner (AIF-C01) Cert Prep](aws_certified_ai_practitioner/README.md)
 
 ## Agentic AI
