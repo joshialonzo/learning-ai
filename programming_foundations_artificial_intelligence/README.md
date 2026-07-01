@@ -21,3 +21,14 @@
 * Machine learning excels in real-time fraud detection by identifying unusual patterns, much like a detective solving mysteries.
 * Deep learning enhances medical diagnostics by analyzing images to detect diseases early, acting as a second opinion to radiologists.
 * Generative AI accelerates drug discovery by experimenting with molecular combinations, akin to a master chef creating new recipes.
+
+## Laying the Groundwork for AI Programming
+
+### Choose your language
+
+* Python
+* Numpy
+* Pandas
+* Tensorflow
+* PyTorch
+* Scikit-learn
