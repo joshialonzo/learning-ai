@@ -32,3 +32,9 @@
 * Tensorflow
 * PyTorch
 * Scikit-learn
+
+### Grasp basic AI concepts
+
+* Neural networks mimic the human brain with layers of interconnected nodes to recognize patterns and make decisions, essential for applications like autonomous vehicles.
+* Natural Language Processing (NLP) helps machines understand and generate human language through tokenization, sentiment analysis, and named entity recognition, powering tools like chatbots.
+* Computer vision enables machines to interpret visual data for tasks such as image classification and facial recognition, similar to giving machines 'eyes' and a 'brain' to understand what they see.
