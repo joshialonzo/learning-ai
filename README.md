@@ -40,6 +40,10 @@ I’ll include:
 * [AI-Driven Learning and Upskilling: Building Your Personalized Learning Guide](ai_driven_learning_and_upskilling/README.md)
 * [Agentic AI: Build your First Agentic AI System](build_your_first_agentic_ai_system/README.md)
 
+## Data Engineering
+
+* [ETL in Python and SQL](etl_in_python_and_sql/README.md)
+
 ---
 
 * [Prompts](docs/prompts.md)
